@@ -12,8 +12,7 @@ nav-menu: true
 		</header>
         <div class="row">
 	        <div class="9u 12u$(small)">
-		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social. Checkout my <a href="/portfolio.html">portfolio</a> or download my <a href="{% link assets/cv/morvarid_cv.pdf %}"> Resumé </a>. </p>
-                <h5>Let's connect and enhance your digital journey together! 🚀✨</h5>
+		        <p>Hey there, I am Morvarid, The main subject of my art work is human’s problems in contemporary societies and I have been working on that since 2011. I believe as a artist it is my responsibility to exploit my abilities to highlight the challenges that humans are facing everyday and they are still neglected by society. Checkout my <a href="/portfolio.html">portfolio</a> or download my <a href="{% link assets/cv/morvarid_cv.pdf %}"> Resumé </a>. </p>
                 <hr/>
                 <div class="row">
 					<div class="3u 12u$(small)">
@@ -21,34 +20,34 @@ nav-menu: true
 					</div>
                     <div class="3u 12u$(small)">
 						<ul id="customUL">
-                            <a href="mailto:bigdeli.niloofar1992@gmail.com" class="icon fa-envelope"> Email</a>
+                            <a href="mailto:art.modi22@gmail.com" class="icon fa-envelope"> Email</a>
 						</ul>
 					</div>
 					<div class="3u 12u$(small)">
 						<ul id="customUL">
-                            <a href="https://www.linkedin.com/in/niloofar-bigdeli/" class="icon fa-linkedin-square"> LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/morvarid-ghasemi-948b8388/" class="icon fa-linkedin-square"> LinkedIn</a>
 						</ul>
 					</div>
 					<div class="3u 12u$(small)">
 						<ul id="customUL">
-                            <a href="https://github.com/nilibigdeli/" class="icon fa-github"> Github</a>
+                            <a href="https://www.instagram.com/morvarid_ghasemiii/" class="icon fa-instagram"> Instagram</a>
 						</ul>
 					</div>
 				</div>
 	        </div>
 	        <div class="3u$ 12u$(small)">
-		        <span class="image fit"><img src="{% link assets/images/niloofar2.jpg %}" alt="" /></span>
+		        <span class="image fit"><img src="{% link assets/images/morvarid2.jpg %}" alt="" /></span>
     	    </div>
         </div>
         <h2 id="elements">Professional Skills</h2>
         <div class="row">
             <div class="4u 12u$(small)">
-                <h4>Social Media</h4>
+                <h4>Content Creation</h4>
             	<ul>
-			        <li>LinkedIn Ads</li>
-			        <li>Facebook Business Suite</li>
-			        <li>Hootsuite</li>
-                    <li>Sprout Social</li>
+			        <li>Adobe Photoshop</li>
+			        <li>Adobe After Effects</li>
+			        <li>Adobe Premiere</li>
+                    <li>Moho Anime Studio</li>
 		        </ul>
             </div>
             <div class="4u 12u$(small)">
@@ -58,15 +57,6 @@ nav-menu: true
 			        <li> Google Tag Manager</li>
 			        <li>HubSpot</li>
                     <li>Search engine optimization (SEO)</li>
-		        </ul>
-            </div>
-            <div class="4u 12u$(small)">
-                <h4>Content Creation</h4>
-            	<ul>
-			        <li>Adobe Photoshop</li>
-			        <li>Adobe After Effects</li>
-			        <li>Adobe Premiere</li>
-                    <li>Canva</li>
 		        </ul>
             </div>
         </div>
