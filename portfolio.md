@@ -17,21 +17,23 @@ nav-menu: true
 		<h2 id="content">Featured Projects</h2>
 		<!-- Tower of Babel -->
 		<div class="row">
-			<div class="4u 12u$(small)" style="margin-top: 1em;">
+			<div class="4u 12u$(small)" style="margin-top: 4em;">
 				<span class="fit"><img src="{% link assets/images/exhibitions/babel-square.jpg %}" alt="" /></span>
 			</div>
 			<div class="8u 12u$(small)">
 				<h4>Tower of Babel - Pit of Babel</h4>
-				<p>The Tower of Babel was built when all people spoke the same language, after the destruction of the tower people were scattered and new languages were born, and when people wandered the earth in search of progress and imagination. The tower gave way to digging a hole deep in the ground. </p>
+				<p>The project, was undertaken during an artist residency at the Yafteh gallery. The residency spanned a month and a half, during which the concept of the project was developed and brought to life. The Tower of Babel is constructed using miniature concrete legos, and a video presentation showcases individuals within the tower, situated in a deep hole in the ground. 
+				The Tower of Babel symbolizes a time when all people shared a common language. Following the tower's destruction, people became dispersed, giving rise to new languages as people roamed the earth in pursuit of progress and imagination. The transition from the towering structure to a hole in the ground signifies a shift in perspective and approach. </p>
 				<h5>Exhibitions:</h5>
 				<ul id="customUL">
 					<li id="customLI">Residency and Group exhibition, Yafteh gallery, Tehran, Iran 2023.</li>
 				</ul>
+				<p><i>The video is not uploaded due to ongoing exhibitions!</i></p>
 			</div>
 		</div>
 		<!-- Present Continuous -->
 		<div class="row" style="margin-top: 4em;">
-			<div class="8u 12u$(small)">
+			<div class="8u 12u$(small)" >
 				<h4>Present Continuous</h4>
 				<p> Throughout history, humans have become the owner of the earth. They have devastated the environment to advance their authority by dominating nature. Human activities on the Earth have caused humans to become alien to their surroundings and even to their own bodies. Wandering man seeks to satisfy his desire to swing like a pendulum between suffering and pleasure, between life and death, and this pendulum swing is repeated with complete obligation for the sake of their progress. Because stopping equals the end of man and everything they have made is destroyed in the environment.</p>
 				<h5>Group Exhibitions:</h5>
@@ -40,8 +42,9 @@ nav-menu: true
 					<li id="customLI"><a href="https://schaumbad.mur.at/index.php/event/finales-wochenende-gift-dt-engl/">Schaumbad-Freies</a>, Graz, Austria, 2022.</li>
 					<li id="customLI"><a href="https://www.festivalmiden.gr/en/video-art-miden-kalamata-6-9-july-2023/">Miden festival</a> (Present Continuous) Kalamata, Greece, 2023.</li>
 				</ul>
+				<p><i>The video is not uploaded due to ongoing exhibitions!</i></p>
 			</div>
-			<div class="4u 12u$(small)">
+			<div class="4u 12u$(small)" style="margin-top: 3em;">
 				<span class="fit"><img src="{% link assets/images/exhibitions/pc1.jpg %}" alt="" /></span>
 				<span class="fit"><img src="{% link assets/images/exhibitions/pc2.jpg %}" alt="" /></span>
 			</div>
@@ -60,6 +63,7 @@ nav-menu: true
 					<li id="customLI"><a href="https://www.villa-ichon.de/ausstellungseroeffnung-i-am-right-here-mit-foto-und-videokunst-iranischer-kuenstlerinnen/">Villa Ichon</a>, Berman, Germany, 2023.</li>
 					<li id="customLI"><a href="https://schaumbad.mur.at/index.php/event/finales-wochenende-gift-dt-engl/">Schaumbad-Freies</a>, Graz, Austria, 2022.</li>
 				</ul>
+				<p><i>The video is not uploaded due to ongoing exhibitions!</i></p>
 			</div>
 		</div>
 		<!-- Rat Race -->
@@ -71,8 +75,9 @@ nav-menu: true
 				<ul id="customUL">
 					<li id="customLI">Industrial heritage, Dayhim art society, Tehran, Iran, 2021.</li>
 				</ul>
+				<p><i>The video is not uploaded due to ongoing exhibitions!</i></p>
 			</div>
-			<div class="4u 12u$(small)" style="margin-top: 2em;">
+			<div class="4u 12u$(small)" style="margin-top: 3em;">
 				<span class="fit"><img src="{% link assets/images/exhibitions/ratrace1.jpg %}" alt="" /></span>
 			</div>
 		</div>

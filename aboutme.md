@@ -25,7 +25,7 @@ nav-menu: true
 					</div>
 					<div class="3u 12u$(small)">
 						<ul id="customUL">
-                            <a href="https://www.linkedin.com/in/morvarid-ghasemi-948b8388/" class="icon fa-linkedin-square"> LinkedIn</a>
+                            <a href="https://twitter.com/MorvaridGh25412" class="icon fa-twitter-square"> X (a.k.a. Twitter)</a>
 						</ul>
 					</div>
 					<div class="3u 12u$(small)">
@@ -39,24 +39,19 @@ nav-menu: true
 		        <span class="image fit"><img src="{% link assets/images/morvarid2.jpg %}" alt="" /></span>
     	    </div>
         </div>
-        <h2 id="elements">Professional Skills</h2>
+        <h2 id="elements">Skills & Experience</h2>
         <div class="row">
-            <div class="4u 12u$(small)">
-                <h4>Content Creation</h4>
+            <div class="10u 12u$(small)">
+                <h4>Education</h4>
             	<ul>
-			        <li>Adobe Photoshop</li>
-			        <li>Adobe After Effects</li>
-			        <li>Adobe Premiere</li>
-                    <li>Moho Anime Studio</li>
+			        <li>Bachelor in painting, Art and Architecture University, Tehran, Iran, 2007-2011.</li>
 		        </ul>
-            </div>
-            <div class="4u 12u$(small)">
-                <h4>Digital Marketing</h4>
-            	<ul>
-			        <li>Google Analytics 4</li>
-			        <li> Google Tag Manager</li>
-			        <li>HubSpot</li>
-                    <li>Search engine optimization (SEO)</li>
+				<h4>Software Skills</h4>
+            	<ul class="customUL">
+			        <li style="float: left; margin: 0 20px 0px 0px;">Adobe Photoshop</li>
+			        <li style="float: left; margin: 0 20px;">Adobe After Effects</li>
+			        <li style="float: left; margin: 0 20px;">Adobe Premiere</li>
+                    <li style="float: left; margin: 0 20px;">Moho Anime Studio</li>
 		        </ul>
             </div>
         </div>
