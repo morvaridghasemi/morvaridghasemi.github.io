@@ -12,7 +12,7 @@ nav-menu: true
 		</header>
         <div class="row">
 	        <div class="9u 12u$(small)">
-		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social. Checkout my <a href="/portfolio.html">portfolio</a> or download my <a href="{% link assets/images/morvarid_cv.pdf %}"> Resumé </a>. </p>
+		        <p>Hey there, I'm Niloofar, a passionate social media enthusiast with over three years of experience helping companies enhance their online presence. From crafting strategic social media plans to executing them, I've got your back in both organic and paid social. Checkout my <a href="/portfolio.html">portfolio</a> or download my <a href="{% link assets/cv/morvarid_cv.pdf %}"> Resumé </a>. </p>
                 <h5>Let's connect and enhance your digital journey together! 🚀✨</h5>
                 <hr/>
                 <div class="row">
