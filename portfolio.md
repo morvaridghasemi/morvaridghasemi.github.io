@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-image: assets/images/niloofar3.jpg
+image: assets/images/portfolio.jpg
 nav-menu: true
 ---
 
@@ -18,7 +18,7 @@ nav-menu: true
 		<!-- Tower of Babel -->
 		<div class="row">
 			<div class="4u 12u$(small)" style="margin-top: 1em;">
-				<span class="fit"><img src="{% link assets/images/loop54.jpg %}" alt="" /></span>
+				<span class="fit"><img src="{% link assets/images/exhibitions/babel-square.jpg %}" alt="" /></span>
 			</div>
 			<div class="8u 12u$(small)">
 				<h4>Tower of Babel - Pit of Babel</h4>
@@ -49,7 +49,8 @@ nav-menu: true
 		<!-- Scene -->
 		<div class="row" style="margin-top: 4em;">
 			<div class="4u 12u$(small)">
-				<span class="fit"><img src="{% link assets/images/Inverse02.jpg %}" alt="" /></span>
+				<span class="fit"><img src="{% link assets/images/exhibitions/scene1.jpg %}" alt="" /></span>
+				<span class="fit"><img src="{% link assets/images/exhibitions/scene2.jpg %}" alt="" /></span>
 			</div>
 			<div class="8u 12u$(small)">
 				<h4>Scene</h4>

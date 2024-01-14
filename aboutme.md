@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: assets/images/aboutme-niloofar.jpg
+image: assets/images/morvarid4.jpg
 nav-menu: true
 ---
 <div id="main" class="alt">
